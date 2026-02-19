@@ -1,6 +1,5 @@
 {
   "name": "ga2-9e72a6",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {}
   },
